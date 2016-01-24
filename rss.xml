@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PURO]]></title>
+        <description><![CDATA[PURO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 21:35:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Criatividade é um trabalho coletivo?]]></title>
+            <description><![CDATA[<article><h1>Criatividade é um trabalho coletivo?</h1><h2>É POSSÍVEL PARA A MULTIDÃO CRIAR ALGO DE QUALIDADE?</h2><p>Imagem em destaque: familymwr @ flickr</p></article>]]></description>
+            <link>undefinedcriatividade-e-um-trabalho-coletivo/index.html</link>
+            <guid isPermaLink="false">281baab3-3b2a-488a-a0dd-c6b2de86959b</guid>
+            <pubDate>Sun, 24 Jan 2016 21:35:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
