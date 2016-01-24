@@ -1,7 +1,7 @@
 name: PURO
 favicon: null
-layout_spectrum: 0.1874157937709242
-typography_spectrum: 0.7231830467935652
+layout_spectrum: 0
+typography_spectrum: 0.64302
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#1e120d'
+    - '#4a4d99'
+    - '#9e0081'
+    - '#f2df00'
+    - '#35a174'
   brandStrength: 0.6299247029237449
   lightness: 0.6079167237039655
   saturation: 0.5179145878646523
