@@ -2,6 +2,7 @@ name: PURO
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.64302
+title: PURO
 cta:
   domain: null
   bucket: null
