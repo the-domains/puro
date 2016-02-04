@@ -6,22 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T00:19:41.347Z'
-dateModified: '2016-02-04T00:19:26.143Z'
-title: Só empatia não é suficiente (mas é um bom começo)
+datePublished: '2016-02-04T00:24:44.437Z'
+dateModified: '2016-02-04T00:24:37.388Z'
+title: ' '
 author: []
+sourcePath: _posts/2016-02-04-so-empatia-nao-e-suficiente-mas-e-um-bom-comeco.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-so-empatia-nao-e-suficiente-mas-e-um-bom-comeco.md
-published: true
 url: so-empatia-nao-e-suficiente-mas-e-um-bom-comeco/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f36435bd-7ba3-43f1-9481-3a43687312cf.jpg)
+
+# 
+
 # Só empatia não é suficiente (mas é um bom começo)
 
 > A EMPATIA TEM ALGUMAS CARACTERÍSTICAS INFELIZES -- É PAROQUIAL, TACANHA E ANALFABETA FUNCIONAL.  
@@ -38,14 +42,13 @@ Não à toa a voga da empatia. Conforme a complexidade do mundo desabrocha, somo
 ## Um dilema pessoal ou um dilema mundial?
 
 Em seu texto "Um caso contra a empatia", o articulista **Paul Bloom **descreve na revista **New Yorker **como a empatia ganhou status de fator determinante de um futuro melhor para o mundo. É um texto com uma ponta pragmática típica dos norte-americanos, mas serve muito bem como contraponto. Muitos saíram em defesa de uma empatia global, uma grande fraternidade entre os seres humanos, mas existe um grande porém. O fato é que, como seres humanos, temos um limite cognitivo para nos colocar na pele dos outros. Temos uma enorme dificuldade de empatizar com centenas ou milhares de pessoas; De uma tragédia de 100 mil pessoas em comparação com uma tragédia de cinco mil nosso sentimento não se multiplica por vinte.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d728730-fee7-47a5-8fba-0daf7e3c970a.png)
 
 Tudo muda quando uma história representa tais tragédias. Buscamos nos identificar com histórias. Um exemplo recente é a imagem de um garoto sírio que morreu afogado na tentativa de emigrar para a Europa, uma imagem que chocou e ficou conhecida por milhões de pessoas por meio da mídia e das redes sociais. O garoto virou símbolo do grave caso dos imigrantes vindos do Oriente Médio fugidos de conflitos armados. Casos como o do garoto acontecem aos milhares há muitos anos. Na África, há décadas. Mas somente uma história é capaz de despertar uma convulsão mundial. Quando os número são muito grandes, precisamos de um símbolo. E símbolos, como aprendemos amargamente no último século, podem ser facilmente manipulados.
 
 Por outro lado, em um [mundo complexo][0] , há infinitos problemas com os quais empatizar. Enquanto um exercício de empatia poderia resolver conflitos, poderia ser a própria causa de outros. Enquanto gastamos energia em problemas específicos, nos colocando no lugar dessa ou daquela vítima, podemos deixar de perceber as macrotendências que todos esse problemas, juntos, desenham. É por isso que, segundo Paul Bloom, a empatia é essencial para as relações entre as pessoas mas pode ser um desastre quando se trata das grandes decisões que ainda são tomadas por poucos líderes para muitos sujeitos, seja por governos ou corporações, porque são decisões que não podem ser empáticas sob pena de serem injustas. Salvar centenas ou salvar milhões? Como números fazem parte da razão e não da emoção, não importa um grande ou um pequeno bem. Importa apenas a parte com a qual conseguimos nos corresponder. Tendemos a tomar a parte pelo todo porque simplificamos o problema a ponto de podermos entendê-lo e formar uma opinião. Aí mora o outro perigo.
 
 > A EMPATIA É UM MIX AGUDO DE SENTIMENTOS LOUCOS PARA SEREM APLACADOS POR UMA HISTÓRIA, SEJA ELA QUAL FOR
-> 
-> 
 
 ### Como se trata de uma via de mão dupla subjetiva entre dois indivíduos, pautamos as ações a seguir não por bom senso. Filtramos tudo o que está acontecendo com o outro segundo nossos próprios preceitos. Unilaterais, com a pequena parte que entendemos do problema, tendemos a vitimizar. Quando pauta alguma decisão, a empatia pode levar simplesmente a um ledo engano.Os três principais problemas da empatia
 
