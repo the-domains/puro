@@ -26,10 +26,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Só empatia não é suficiente (mas é um bom começo)
-    id: 039878e0-815c-471c-9683-a1aabb1a6954
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb2d6766-ba02-42e1-98d4-ef8eeb380e5c.ico
 title: PURO
