@@ -19,12 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bce9bc0d-7cef-4808-9d3d-9b0181cf5b05.png
 name: PURO
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb2d6766-ba02-42e1-98d4-ef8eeb380e5c.ico
 title: PURO
 description: 'Inovação, criatividade e pensamento'
 purpose: []
