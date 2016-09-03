@@ -3,21 +3,22 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-04T00:24:44.437Z'
-dateModified: '2016-02-04T00:24:37.388Z'
-title: ' '
+description: >-
+  Conforme o pensamento do Design ganha relevância, também entram em cena termos
+  e conceitos que são usados pelos designers para atuar de forma centrada no ser
+  humano. É o caso da empatia. Essa palavra tem aparecido cada vez mais e –
+  antes que o vocabulário superficial do mundo corporativo se aproprie dela – é
+  interessante puxar o termo para um equilíbrio.
+datePublished: '2016-08-31T14:22:38.627Z'
+dateModified: '2016-08-31T14:22:35.934Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-04-so-empatia-nao-e-suficiente-mas-e-um-bom-comeco.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: so-empatia-nao-e-suficiente-mas-e-um-bom-comeco/index.html
 _type: Article
 
